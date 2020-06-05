@@ -1,2 +1,2 @@
 # DataStructuresCS
-Crash Course with the basic contents of Data Structures
+Crash Course with the basics of Data Structures
